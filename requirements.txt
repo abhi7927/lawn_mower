@@ -1,0 +1,6 @@
+python-opencv
+Flask==1.1.1
+multiprocessing
+Rpi
+time
+
