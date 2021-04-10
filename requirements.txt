@@ -1,5 +1,6 @@
 Flask>=1.1.1
 multiprocessing
 Rpi
-opencv-python==4.2.0.34
+streamlit
+opencv-contrib-python-headless
 
